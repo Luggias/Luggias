@@ -53,8 +53,40 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luggias&layout=compact&langs_count=8&bg_color=00000000&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=luggias&show_icons=true&rank_icon=default&cache_seconds=86400&bg_color=00000000&hide_border=true)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luggias&theme=dark"
+  />
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luggias&theme=default"
+  />
+</picture>
 
-![Streak](https://streak-stats.demolab.com?user=luggias&hide_border=true&background=00000000&ring=ff9e64&fire=ff9e64&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=c9d1d9&sideLabels=c9d1d9)
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Luggias&theme=dark"
+  />
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Luggias&theme=default"
+  />
+</picture>
+
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Luggias&theme=dark"
+  />
+  <img
+    alt="GitHub Streak"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Luggias&theme=default"
+  />
+</picture>
