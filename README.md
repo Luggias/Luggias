@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 <a href="mailto:lukas@kapferer.or.at" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
+<a href="https://lukas-kapferer.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" />
+</a>
 
 
 ## 💻 Tech Stack:
