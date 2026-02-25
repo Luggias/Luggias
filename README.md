@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 
 ## 📌 Featured Projects:
+- **[Hotel Revenue Forecast](https://github.com/Luggias/DSF_Group_Project)** – Random Forest, SARIMAX, Feature Engineering (Autoregressive Lags, Rolling Window Statistics, Fourier Series Terms (K=16)
 - **[Algorithmic Trading Bot](https://github.com/Luggias/algorithmic_trading.git)** – Python, IBKR API, backtesting & strategy automation  
 <!-- - **[FashionNova CMS](https://github.com/your-repo)** – Java-based content management system for e-commerce pages -->
 <!-- - **[Event Scraper](https://github.com/your-repo)** – FastAPI tool to scrape investor relations events faster than Bloomberg -->
