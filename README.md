@@ -31,6 +31,9 @@ Here are some ideas to get you started:
 <a href="https://lukas-kapferer.dev" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" />
 </a>
+<a href="https://github.com/Luggias" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Follow" />
+</a>
 
 
 ## 💻 Tech Stack:
