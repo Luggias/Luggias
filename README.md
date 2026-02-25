@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 B.Sc. Computer Science @ University of St. Gallen (HSG), Switzerland  
 💼 Strategic Ops & Research Intern @ CMT Capital Markets Trading (Frankfurt)  
-📊 Head of IT @ Helvetian Investment Club (one of Europe’s largest student finance societies)  
+📊 Vice President @ Helvetian Investment Club (one of Europe’s largest student finance societies)  
 🚀 Building an Algorithmic Trading Bot (Python, IBKR API)  
 📑 Awarded by Dr. Hans Riegel Stiftung for my thesis on Real Estate & Climate Change   
 
