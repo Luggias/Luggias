@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </picture>
 
 <p align="left">
-  <i><b>Note:</b> Jupyter Notebooks are not pictured due to intensive machine learning projects which are very large in byte size. JavaScript should also hidden (but cannot) as my only repository including JavaScript is a fork for hosting these stats.</i>
+  <i><b>Note:</b> Jupyter Notebooks are not pictured due to intensive machine learning projects which are very large in byte size. JavaScript should also be hidden (but cannot) as my only repository including JavaScript is a fork for hosting these stats.</i>
 </p>
 
 <br/>
