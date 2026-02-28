@@ -68,11 +68,11 @@ Here are some ideas to get you started:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luggias&theme=dark"
+    srcset="https://github-readme-stats-server-phi.vercel.app/api/top-langs/?username=Luggias&theme=dark&count_private=true"
   />
   <img
     alt="Top Languages"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Luggias&theme=default"
+    src="https://github-readme-stats-server-phi.vercel.app/api/top-langs/?username=Luggias&theme=default&count_private=true"
   />
 </picture>
 
@@ -81,11 +81,11 @@ Here are some ideas to get you started:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=Luggias&theme=dark"
+    srcset="https://github-readme-stats-server-phi.vercel.app/api?username=Luggias&show_icons=true&theme=dark&count_private=true"
   />
   <img
     alt="GitHub Stats"
-    src="https://github-readme-stats-fast.vercel.app/api?username=Luggias&theme=default"
+    src="https://github-readme-stats-server-phi.vercel.app/api?username=Luggias&show_icons=true&theme=default&count_private=true"
   />
 </picture>
 
