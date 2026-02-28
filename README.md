@@ -68,13 +68,17 @@ Here are some ideas to get you started:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-server-phi.vercel.app/api/top-langs/?username=Luggias&theme=dark&count_private=true"
+    srcset="https://github-readme-stats-server-phi.vercel.app/api/top-langs/?username=Luggias&theme=dark&count_private=true&hide=jupyter+notebook,javascript"
   />
   <img
     alt="Top Languages"
-    src="https://github-readme-stats-server-phi.vercel.app/api/top-langs/?username=Luggias&theme=default&count_private=true"
+    src="https://github-readme-stats-server-phi.vercel.app/api/top-langs/?username=Luggias&theme=default&count_private=true&hide=jupyter+notebook,javascript"
   />
 </picture>
+
+<p align="left">
+  <i><b>Note:</b> Jupyter Notebooks are not pictured due to intensive machine learning projects which are very large in byte size. JavaScript should also hidden (but cannot) as my only repository including JavaScript is a fork for hosting these stats.</i>
+</p>
 
 <br/>
 
@@ -94,10 +98,10 @@ Here are some ideas to get you started:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Luggias&theme=dark"
+    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=Luggias&theme=dark&count_private=true"
   />
   <img
     alt="GitHub Streak"
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Luggias&theme=default"
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=Luggias&theme=default&count_private=true"
   />
 </picture>
