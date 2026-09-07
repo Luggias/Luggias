@@ -22,37 +22,53 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/lukas-kapferer" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:lukas@kapferer.or.at" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
-<a href="https://lukas-kapferer.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://github.com/Luggias" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Follow" />
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/lukas-kapferer"><img src="assets/badges/linkedin.svg" height="40" alt="LinkedIn"></a>
+  <a href="mailto:lukas@kapferer.or.at"><img src="assets/badges/email.svg" height="40" alt="Email"></a>
+  <a href="https://lukas-kapferer.dev"><img src="assets/badges/website.svg" height="40" alt="Website"></a>
+  <a href="https://github.com/Luggias"><img src="assets/badges/github.svg" height="40" alt="GitHub Follow"></a>
+</p>
 
 
 ## 💻 Tech Stack:
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+
+### Languages
+<p>
+  <img src="assets/badges/rust.svg" height="40" alt="Rust">
+  <img src="assets/badges/java.svg" height="40" alt="Java">
+  <img src="assets/badges/python.svg" height="40" alt="Python">
+  <img src="assets/badges/sql.svg" height="40" alt="SQL">
+</p>
+
+### Data Science & Machine Learning
+<p>
+  <img src="assets/badges/numpy.svg" height="40" alt="NumPy">
+  <img src="assets/badges/pandas.svg" height="40" alt="Pandas">
+  <img src="assets/badges/polars.svg" height="40" alt="Polars">
+  <img src="assets/badges/spark.svg" height="40" alt="Apache Spark">
+  <img src="assets/badges/matplotlib.svg" height="40" alt="Matplotlib">
+  <img src="assets/badges/scikit-learn.svg" height="40" alt="scikit-learn">
+  <img src="assets/badges/pytorch.svg" height="40" alt="PyTorch">
+  <img src="assets/badges/tensorflow.svg" height="40" alt="TensorFlow">
+</p>
+
+### Backend & Infrastructure
+<p>
+  <img src="assets/badges/fastapi.svg" height="40" alt="FastAPI">
+  <img src="assets/badges/docker.svg" height="40" alt="Docker">
+  <img src="assets/badges/kubernetes.svg" height="40" alt="Kubernetes">
+  <img src="assets/badges/linux.svg" height="40" alt="Linux">
+  <img src="assets/badges/raspberry-pi.svg" height="40" alt="Raspberry Pi">
+</p>
+
+### Tools
+<p>
+  <img src="assets/badges/git.svg" height="40" alt="Git">
+  <img src="assets/badges/latex.svg" height="40" alt="LaTeX">
+  <img src="assets/badges/pyo3.svg" height="40" alt="PyO3">
+  <img src="assets/badges/maturin.svg" height="40" alt="maturin">
+  <img src="assets/badges/uv.svg" height="40" alt="uv">
+</p>
 
 
 ## 📌 Featured Projects:
