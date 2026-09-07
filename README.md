@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 <p>
-  <a href="https://www.linkedin.com/in/lukas-kapferer"><img src="assets/badges/linkedin.svg" height="30" alt="LinkedIn"></a>
-  <a href="mailto:lukas@kapferer.or.at"><img src="assets/badges/email.svg" height="30" alt="Email"></a>
-  <a href="https://lukas-kapferer.dev"><img src="assets/badges/website.svg" height="30" alt="Website"></a>
-  <a href="https://github.com/Luggias"><img src="assets/badges/github.svg" height="30" alt="GitHub Follow"></a>
+  <a href="https://www.linkedin.com/in/lukas-kapferer"><img src="assets/badges/linkedin.svg" height="27" alt="LinkedIn"></a>
+  <a href="mailto:lukas@kapferer.or.at"><img src="assets/badges/email.svg" height="27" alt="Email"></a>
+  <a href="https://lukas-kapferer.dev"><img src="assets/badges/website.svg" height="27" alt="Website"></a>
+  <a href="https://github.com/Luggias"><img src="assets/badges/github.svg" height="27" alt="GitHub Follow"></a>
 </p>
 
 
@@ -34,40 +34,40 @@ Here are some ideas to get you started:
 
 ### Languages
 <p>
-  <img src="assets/badges/rust.svg" height="30" alt="Rust">
-  <img src="assets/badges/java.svg" height="30" alt="Java">
-  <img src="assets/badges/python.svg" height="30" alt="Python">
-  <img src="assets/badges/sql.svg" height="30" alt="SQL">
+  <img src="assets/badges/rust.svg" height="27" alt="Rust">
+  <img src="assets/badges/java.svg" height="27" alt="Java">
+  <img src="assets/badges/python.svg" height="27" alt="Python">
+  <img src="assets/badges/sql.svg" height="27" alt="SQL">
 </p>
 
 ### Data Science & Machine Learning
 <p>
-  <img src="assets/badges/numpy.svg" height="30" alt="NumPy">
-  <img src="assets/badges/pandas.svg" height="30" alt="Pandas">
-  <img src="assets/badges/polars.svg" height="30" alt="Polars">
-  <img src="assets/badges/spark.svg" height="30" alt="Apache Spark">
-  <img src="assets/badges/matplotlib.svg" height="30" alt="Matplotlib">
-  <img src="assets/badges/scikit-learn.svg" height="30" alt="scikit-learn">
-  <img src="assets/badges/pytorch.svg" height="30" alt="PyTorch">
-  <img src="assets/badges/tensorflow.svg" height="30" alt="TensorFlow">
+  <img src="assets/badges/numpy.svg" height="27" alt="NumPy">
+  <img src="assets/badges/pandas.svg" height="27" alt="Pandas">
+  <img src="assets/badges/polars.svg" height="27" alt="Polars">
+  <img src="assets/badges/spark.svg" height="27" alt="Apache Spark">
+  <img src="assets/badges/matplotlib.svg" height="27" alt="Matplotlib">
+  <img src="assets/badges/scikit-learn.svg" height="27" alt="scikit-learn">
+  <img src="assets/badges/pytorch.svg" height="27" alt="PyTorch">
+  <img src="assets/badges/tensorflow.svg" height="27" alt="TensorFlow">
 </p>
 
 ### Backend & Infrastructure
 <p>
-  <img src="assets/badges/fastapi.svg" height="30" alt="FastAPI">
-  <img src="assets/badges/docker.svg" height="30" alt="Docker">
-  <img src="assets/badges/kubernetes.svg" height="30" alt="Kubernetes">
-  <img src="assets/badges/linux.svg" height="30" alt="Linux">
-  <img src="assets/badges/raspberry-pi.svg" height="30" alt="Raspberry Pi">
+  <img src="assets/badges/fastapi.svg" height="27" alt="FastAPI">
+  <img src="assets/badges/docker.svg" height="27" alt="Docker">
+  <img src="assets/badges/kubernetes.svg" height="27" alt="Kubernetes">
+  <img src="assets/badges/linux.svg" height="27" alt="Linux">
+  <img src="assets/badges/raspberry-pi.svg" height="27" alt="Raspberry Pi">
 </p>
 
 ### Tools
 <p>
-  <img src="assets/badges/git.svg" height="30" alt="Git">
-  <img src="assets/badges/latex.svg" height="30" alt="LaTeX">
-  <img src="assets/badges/pyo3.svg" height="30" alt="PyO3">
-  <img src="assets/badges/maturin.svg" height="30" alt="maturin">
-  <img src="assets/badges/uv.svg" height="30" alt="uv">
+  <img src="assets/badges/git.svg" height="27" alt="Git">
+  <img src="assets/badges/latex.svg" height="27" alt="LaTeX">
+  <img src="assets/badges/pyo3.svg" height="27" alt="PyO3">
+  <img src="assets/badges/maturin.svg" height="27" alt="maturin">
+  <img src="assets/badges/uv.svg" height="27" alt="uv">
 </p>
 
 
